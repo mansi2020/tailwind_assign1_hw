@@ -15,46 +15,52 @@ button>: A button element.
 i>: An italic text element (used here for an icon).  
 
 <h1>CSS Tailwind class Description</h1>
-<pre>.flex: Applies flexbox layout to the element.  
-.font-mono: Sets a monospaced font for the text.
-.w-full: Sets the element's width to 100% of the parent container.
-.h-screen: Sets the element's height to the full height of the screen.
-.items-center: Aligns flex items vertically at the center.
-.justify-center: Aligns flex items horizontally at the center.
-.bg-slate-300: Sets the background color using a specific color utility.
-.place-content-center: Centers content both horizontally and vertically within the flex container.
-.gap-x-10: Adds horizontal gap between flex items.
-.bg-white: Sets the background color to white.
-.p-6: Adds padding to all sides of the element.
-.relative: Positions the element relative to its normal position.
-.w-fit: Sets the width of the element to fit its content.
-.flex-none: Prevents the element from growing to fill available space in the flex container.
-.mb-10: Adds margin bottom to the element.
-.h-56: Sets the height of the element.
-.before:bg-teal-400: Styles a pseudo-element before the main element.
-.before:absolute: Positions a pseudo-element absolutely within its parent.
-.before:top-1, .before:left-1, .before:right-6, .before:w-full, .before:h-full: Positioning utilities for the pseudo-element.
-.object-cover: Ensures the image covers the entire container while maintaining aspect ratio.
-.text-white: Sets text color to white.
-.text-2xl: Sets the font size to 2xl.
-.font-semibold: Sets the font weight to semi-bold.
-.mt-1, .mb-1: Adds margin top and bottom to the element.
-.uppercase: Converts text to uppercase.
-.text-lg: Sets the font size to large.
-.ml-3: Adds left margin to the element.
-.text-teal-400: Sets text color to a teal shade.
-.mt-10: Adds margin top to the element.
-.place-items-center: Centers items both horizontally and vertically within their container.
-.font-light: Sets the font weight to light.
-.flex: Applies flexbox layout to the element.
-.mb-4: Adds margin bottom to the element.
-.text-sm: Sets the font size to small.
-.font-medium: Sets the font weight to medium.
-.tracking-wider: Increases the letter spacing of the text.
-.border-2: Adds a 2px border to the element.
-.border-black, .border-slate-300: Sets the border color.
-.bg-teal-400: Sets the background color to a teal shade.
-.text-black: Sets text color to black.
-.text-lg: Sets the font size to large.
-.leading-6: Sets the line height of the text.
-.text-slate-500: Sets text color to a slate shade.</pre>
+.flex                  : Apply flexible box layout to element.<br>
+.font-mono             : Set the font to monospace.<br>
+.w-full                : Set the width of the element to 100%.<br>
+.h-screen              : Set the height of the element to the screen's full height.<br>
+.items-center          : Vertically align flex items at the center.<br>
+.justify-center        : Horizontally align flex items at the center.<br>
+.bg-slate-300          : Set background color using the slate shade.<br>
+.place-content-center  : Center content both vertically and horizontally.<br>
+.gap-x-10              : Add horizontal gap between flex items.<br>
+.bg-white              : Set background color to white.<br>
+.p-6                   : Add padding to all sides of the element.<br>
+.relative              : Position element relative to its normal position.<br>
+.w-fit                 : Set width of the element to fit its content.<br>
+.flex-none             : Prevent element from growing in flex container.<br>
+.mb-10                 : Add margin bottom to the element.<br>
+.h-56                  : Set the height of the element.<br>
+.before:bg-teal-400    : Style a pseudo-element before the main element with a teal background.<br>
+.before:absolute       : Position a pseudo-element absolutely within its parent.<br>
+.before:top-1          : Position the pseudo-element with a 1px top spacing.<br>
+.before:left-1         : Position the pseudo-element with a 1px left spacing.<br>
+.before:right-6        : Position the pseudo-element with a 6px right spacing.<br>
+.before:w-full         : Make the pseudo-element full width.<br>
+.before:h-full         : Make the pseudo-element full height.<br>
+.object-cover          : Ensure the image covers the container while maintaining aspect ratio.<br>
+.text-white            : Set text color to white.<br>
+.text-2xl              : Set font size to 2xl.<br>
+.font-semibold        : Set font weight to semi-bold.<br>
+.mt-1                  : Add margin top to the element.<br>
+.mb-1                  : Add margin bottom to the element.<br>
+.uppercase             : Convert text to uppercase.<br>
+.text-lg               : Set font size to large.<br>
+.ml-3                  : Add left margin to the element.<br>
+.text-teal-400         : Set text color to a teal shade.<br>
+.mt-10                 : Add margin top to the element.<br>
+.place-items-center    : Center items both horizontally and vertically within their container.<br>
+.font-light            : Set font weight to light.<br>
+.mb-4                  : Add margin bottom to the element.<br>
+.text-sm               : Set font size to small.<br>
+.font-medium           : Set font weight to medium.<br>
+.tracking-wider        : Increase letter spacing of the text.<br>
+.border-2              : Add a 2px border to the element.<br>
+.border-black          : Set border color to black.<br>
+.border-slate-300      : Set border color to a slate shade.<br>
+.bg-teal-400           : Set background color to a teal shade.<br>
+.text-black            : Set text color to black.<br>
+.text-lg               : Set font size to large.<br>
+.leading-6             : Set line height of the text.<br>
+.text-slate-500        : Set text color to a slate shade.<br>
+
